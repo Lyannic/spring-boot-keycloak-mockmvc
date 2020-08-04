@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/lemon" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/web-miau-api/app" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/gradle_verify" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/jmmtex" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/jmmtex_gradle" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/jmmtex_mumie" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/jmmtex_mumie_verify" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/lemon-tree" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sit-cv/sit-cv-gradle-plugin" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
